@@ -13,9 +13,6 @@ License management system for SmartFront Headless E-commerce Platform.
 
 Copyright (c) 2024-2026 Roman Tsehynka. All Rights Reserved.
 
-This software was created by Roman Tsehynka outside of regular work hours as a
-personal project. All intellectual property rights belong exclusively to
-Roman Tsehynka.
 
 ## Description
 
